@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://vuepress-theme-hope.github.io/feed2-demo/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Feed</title>
+    <link>https://vuepress-theme-hope.github.io/feed2-demo/zh/</link>
+    <description>VuePress2 Feed 插件</description>
+    <language>zh-CN</language>
+    <pubDate>Mon, 18 Jul 2022 14:50:28 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2022 14:50:28 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>演示</category>
+    <item>
+      <title>演示页面</title>
+      <link>https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html</link>
+      <guid>https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html</guid>
+      <source url="https://vuepress-theme-hope.github.io/feed2-demo/rss.xml">演示页面</source>
+      <description>这里是详情。
+const a = 1;
+</description>
+      <category>演示</category>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这里是<strong>详情</strong>。</p>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><div></div></div></div>
+<h2 id="内容" tabindex="-1"> 内容</h2>
+<p>文章的主要<strong>内容</strong>:</p>
+<ol>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ol>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><div></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>自定义标题</title>
+      <link>https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html</link>
+      <guid>https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html</guid>
+      <source url="https://vuepress-theme-hope.github.io/feed2-demo/rss.xml">自定义标题</source>
+      <description>自定义描述</description>
+      <content:encoded><![CDATA[自定义内容]]></content:encoded>
+    </item>
+  </channel>
+</rss>

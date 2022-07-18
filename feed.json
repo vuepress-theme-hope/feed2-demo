@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Feed",
+  "home_page_url": "https://vuepress-theme-hope.github.io/feed2-demo/",
+  "feed_url": "https://vuepress-theme-hope.github.io/feed2-demo/feed.json",
+  "description": "VuePress2 Feed Plugin",
+  "items": [
+    {
+      "title": "Demo Page",
+      "url": "https://vuepress-theme-hope.github.io/feed2-demo/demo.html",
+      "id": "https://vuepress-theme-hope.github.io/feed2-demo/demo.html",
+      "summary": "Here is article excerpt.\nconst a = 1;\n",
+      "content_html": "<p>Here is <strong>article excerpt</strong>.</p>\n<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>\n</code></pre><div aria-hidden=\"true\"><div></div></div></div>\n<h2 id=\"content\" tabindex=\"-1\"> Content</h2>\n<p>Here is main content of <strong>article</strong>.</p>\n<ol>\n<li>A</li>\n<li>B</li>\n<li>C</li>\n</ol>\n<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>\n</code></pre><div aria-hidden=\"true\"><div></div></div></div>",
+      "date_published": "2021-01-01T00:00:00.000Z",
+      "date_modified": "2022-07-18T14:45:08.000Z",
+      "authors": [
+        {
+          "name": "Mr.Hope"
+        }
+      ],
+      "tags": [
+        "Demo"
+      ]
+    },
+    {
+      "title": "Custom Title",
+      "url": "https://vuepress-theme-hope.github.io/feed2-demo/custom.html",
+      "id": "https://vuepress-theme-hope.github.io/feed2-demo/custom.html",
+      "summary": "Custom description",
+      "content_html": "Custom content.",
+      "date_modified": "2022-07-18T14:45:08.000Z",
+      "authors": [],
+      "tags": []
+    }
+  ]
+}

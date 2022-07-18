@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://vuepress-theme-hope.github.io/feed2-demo/zh/</id>
+  <title>Feed</title>
+  <subtitle>VuePress2 Feed 插件</subtitle>
+  <updated>2022-07-18T14:50:28.275Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://vuepress-theme-hope.github.io/feed2-demo/atom.xml"/>
+  <link rel="alternate" href="https://vuepress-theme-hope.github.io/feed2-demo/zh/"/>
+  <category term="演示"/>
+  <contributor>
+    <name>Mr.Hope</name>
+  </contributor>
+  <entry>
+    <title type="html">演示页面</title>
+    <id>https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html</id>
+    <link href="https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html"/>
+    <updated>2022-07-18T14:45:08.000Z</updated>
+    <summary type="html"><![CDATA[<p>这里是<strong>详情</strong>。</p>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><div></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<p>这里是<strong>详情</strong>。</p>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><div></div></div></div>
+<h2 id="内容" tabindex="-1"> 内容</h2>
+<p>文章的主要<strong>内容</strong>:</p>
+<ol>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ol>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><div></div></div></div>]]></content>
+    <author>
+      <name>Mr.Hope</name>
+    </author>
+    <category term="演示" scheme=""/>
+    <contributor>
+      <name>Mr.Hope</name>
+    </contributor>
+    <published>2021-01-01T00:00:00.000Z</published>
+    <rights>Copyright by Mr.Hope</rights>
+  </entry>
+  <entry>
+    <title type="html">自定义标题</title>
+    <id>https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html</id>
+    <link href="https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html"/>
+    <updated>2022-07-18T14:45:08.000Z</updated>
+    <summary type="html">自定义描述</summary>
+    <content type="html"><![CDATA[自定义内容]]></content>
+  </entry>
+</feed>

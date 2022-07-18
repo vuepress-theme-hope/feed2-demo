@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Feed",
+  "home_page_url": "https://vuepress-theme-hope.github.io/feed2-demo/zh/",
+  "feed_url": "https://vuepress-theme-hope.github.io/feed2-demo/feed.json",
+  "description": "VuePress2 Feed 插件",
+  "items": [
+    {
+      "title": "演示页面",
+      "url": "https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html",
+      "id": "https://vuepress-theme-hope.github.io/feed2-demo/zh/demo.html",
+      "summary": "这里是详情。\nconst a = 1;\n",
+      "content_html": "<p>这里是<strong>详情</strong>。</p>\n<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>\n</code></pre><div aria-hidden=\"true\"><div></div></div></div>\n<h2 id=\"内容\" tabindex=\"-1\"> 内容</h2>\n<p>文章的主要<strong>内容</strong>:</p>\n<ol>\n<li>A</li>\n<li>B</li>\n<li>C</li>\n</ol>\n<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>\n</code></pre><div aria-hidden=\"true\"><div></div></div></div>",
+      "date_published": "2021-01-01T00:00:00.000Z",
+      "date_modified": "2022-07-18T14:45:08.000Z",
+      "authors": [
+        {
+          "name": "Mr.Hope"
+        }
+      ],
+      "tags": [
+        "演示"
+      ]
+    },
+    {
+      "title": "自定义标题",
+      "url": "https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html",
+      "id": "https://vuepress-theme-hope.github.io/feed2-demo/zh/custom.html",
+      "summary": "自定义描述",
+      "content_html": "自定义内容",
+      "date_modified": "2022-07-18T14:45:08.000Z",
+      "authors": [],
+      "tags": []
+    }
+  ]
+}

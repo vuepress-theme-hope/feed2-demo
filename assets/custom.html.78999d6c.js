@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,b as o}from"./app.ada20a14.js";const s={},_=o("p",null,"\u6B64\u9875\u7684\u7684 Feed \u9879\u76EE\u88AB\u81EA\u5B9A\u4E49\u3002",-1),n=[_];function r(a,l){return t(),c("div",null,n)}var m=e(s,[["render",r],["__file","custom.html.vue"]]);export{m as default};

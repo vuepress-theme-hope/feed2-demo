@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as s}from"./app.ada20a14.js";const c={},_=s("p",null,"Feed item of this page is customized.",-1),a=[_];function n(r,i){return t(),o("div",null,a)}var m=e(c,[["render",n],["__file","custom.html.vue"]]);export{m as default};
